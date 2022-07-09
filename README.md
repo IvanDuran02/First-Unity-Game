@@ -1,4 +1,4 @@
-# First-Unity-Game
+# First-Unity-Game First-Unity-Game/Assets/Scripts/ (go here to see code I wrote since the directory is a bit messy ! )
 Had a lot of fun making this as I even went through the trouble to learn a bit of 3D modeling to make a character to control.
 
 Definetly incomplete, what I did here was made basic scripts to walk around, sprint, jump, move camera around etc.
